@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ribeiro-Da-Silva&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
-### Tecnologias ques estou estudando atualmente
+### Tecnologias ques estou estudando atualmente:
 <div style="display: inline_block"><br>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
@@ -21,6 +21,7 @@
  
 <div> 
   
+### Contatos:
   <a href = "mailto:lrds37580@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-ribeiro-da-silva-777b85231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
