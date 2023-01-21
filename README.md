@@ -12,7 +12,7 @@
 </div>
  
 
- ### Tecnologias ques estou estudando:
+ ### Tecnologias que estou estudando:
 
 <div style="display: inline_block"><br>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
