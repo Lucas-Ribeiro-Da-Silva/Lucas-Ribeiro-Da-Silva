@@ -4,23 +4,20 @@
   
 ### Olá! Meu nome é Lucas Ribeiro da Silva, tenho 19 anos. 👋
 
-🏆 Formado como Técnico em Eletrônica pela Etec Getúlio Vargas
+🏆 Formação: Técnico em Eletrônica - Etec Getúlio Vargas (2019-2021)🏆
 
-📚 Hoje estudo Análise e desenvolvimento de sistemas na Fatec São Paulo, 3º/6º
+📚 Cursando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo (3º/6º)📚
+  
+Desenvolvimento Web / Ciências de Dados / Automação de Processos
 
-💙apaixonado por tecnologia, sempre em busca de novos conhecimentos estando em constante evolução!
-
-  <a href="https://github.com/Lucas-Ribeiro-Da-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ribeiro-Da-Silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ribeiro-Da-Silva&layout=compact&langs_count=7&theme=highcontrast"/>
-
- ### Tecnologias que estou estudando:
+  <hr>
+  
+   ### Tecnologias que estou estudando 👨‍💻:
 
 <div style="display: inline_block"><br>
   
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -30,8 +27,12 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
  
 </div>
- 
-  ### Bibliotecas para ciências de dados:
+  
+  <a href="https://github.com/Lucas-Ribeiro-Da-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ribeiro-Da-Silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ribeiro-Da-Silva&layout=compact&langs_count=7&theme=highcontrast"/>
+     
+  ### Bibliotecas para ciências de dados👨‍💻:
 
 <span style="display: inline_block"><br>
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -44,6 +45,8 @@
 </span>
  
 <div> 
+  
+  <hr>
   
 ### Contatos:
   <a href = "mailto:lrds37580@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
