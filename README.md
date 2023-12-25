@@ -2,13 +2,13 @@
 
 <div align="center">
   
-### Olá! Meu nome é Lucas Ribeiro da Silva, tenho 19 anos. 👋
+### Olá! Meu nome é Lucas Ribeiro da Silva, tenho 20 anos. 👋
 
 🏆 Formação: Técnico em Eletrônica - Etec Getúlio Vargas (2019-2021)🏆
 
-📚 Cursando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo (3º/6º)📚
+📚 Cursando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo (5º/6º)📚
   
-Desenvolvimento Web / Ciências de Dados / Automação de Processos
+Desenvolvimento Web / BI / Ciências de Dados / Automação de Processos
 
   <hr>
   
