@@ -2,11 +2,11 @@
 
 <div align="center">
   
-### Olá! Meu nome é Lucas Ribeiro da Silva, tenho 20 anos. 👋
+### Olá! Meu nome é Lucas Ribeiro da Silva, tenho 21 anos. 👋
 
 🏆 Formação: Técnico em Eletrônica - Etec Getúlio Vargas (2019-2021)🏆
 
-📚 Cursando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo (5º/6º)📚
+📚 Cursando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo (6º/6º)📚
   
 Desenvolvimento Web / BI / Ciências de Dados / Automação de Processos
 
@@ -32,16 +32,6 @@ Desenvolvimento Web / BI / Ciências de Dados / Automação de Processos
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ribeiro-Da-Silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ribeiro-Da-Silva&layout=compact&langs_count=7&theme=highcontrast"/>
      
-  ### Bibliotecas para ciências de dados👨‍💻:
-
-<span style="display: inline_block"><br>
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  
-  
 </span>
  
 <div> 
